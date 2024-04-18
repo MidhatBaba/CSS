@@ -1,2 +1,2 @@
 # CSS
-githubtraining
+CSS Starter
